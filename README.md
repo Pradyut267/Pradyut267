@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *MongoDB,Mongoose*
 
-- 👨‍💻 All of my projects are available at [https://Pradyut267.github.io/](https://Pradyut267.github.io/)
+- 👨‍💻 All of my projects are available at [https://pradyut267.github.io/](https://pradyut267.github.io/)
 
 - 💬 Ask me about *ReactJS,JavaScript,NodeJS,ExpressJS*
 
