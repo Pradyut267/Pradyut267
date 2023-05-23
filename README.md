@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arsh Goyal</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <!--
 **Pradyut267/Pradyut267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
